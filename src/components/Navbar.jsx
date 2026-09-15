@@ -12,7 +12,7 @@ export default function Navbar() {
         <div className="flex justify-between h-16">
           {/* Logo */}
           <div className="flex-shrink-0 flex items-center">
-            <img src="/src/favicon.ico" width={48} height={48} />
+            <img src="/VecVisuals/public/assets/favicon.ico" width={48} height={48} />
             <Link to="/" className="text-2xl font-bold px-4">
               VecVisuals
             </Link>
