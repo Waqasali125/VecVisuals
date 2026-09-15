@@ -2,7 +2,7 @@
 import { Link } from "react-router-dom";
 import { Linkedin, Facebook, Twitter, Instagram } from "lucide-react";
 import { TypeAnimation } from "react-type-animation";
-import profilePic from "./portfolio/";
+import introVideo from "../Intro.mp4";
 import {
   FaLinkedin,
   FaFacebook,
@@ -80,7 +80,7 @@ export default function Home() {
             className="w-164 h-180 md:w-172 md:h-196 rounded-2xl object-cover shadow-lg"
           /> */}
           <video
-    src="/src/Intro.mp4"
+    src={introVideo}
     controls
     autoPlay
     muted
