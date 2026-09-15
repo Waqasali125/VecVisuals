@@ -82,7 +82,7 @@ export default function About() {
           {/* Skills */}
           <div className="space-y-6">
             <SkillBar
-              icon={<img src="src/public/assets/Adobe-Illustrator.svg" className="w-10 h-10" />}
+              icon={<img src="VecVisuals/public/assets/Adobe-Illustrator.svg" className="w-10 h-10" />}
               label="Adobe Illustrator"
               percent={progress.illustrator}
               color="bg-orange-700"
