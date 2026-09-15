@@ -82,14 +82,14 @@ export default function About() {
           {/* Skills */}
           <div className="space-y-6">
             <SkillBar
-              icon={<img src="" className="w-10 h-10" />}
+              icon={<img src="/VecVisuals/assets/Adobe-Illustrator.svg" className="w-10 h-10" />}
               label="Adobe Illustrator"
               percent={progress.illustrator}
               color="bg-orange-700"
             />
 
             <SkillBar
-              icon={<img src="" className="w-10 h-10" />}
+              icon={<img src="/VecVisuals/assets/Adobe-After-Effects.svg" className="w-10 h-10" />}
               label="Adobe After Effects"
               percent={progress.aftereffects}
               color="bg-blue-900"
