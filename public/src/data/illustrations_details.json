@@ -1,0 +1,107 @@
+[
+  {
+    "id": "ill-1",
+    "name": "Sunset Scene",
+    "title": "Illustration Details",
+    "image": "/VecVisuals/assets/illustrations/Illustration 1.png",
+    "previewImage": "/VecVisuals/assets/illustrations/sunset-large.png",
+    "description": "A peaceful sunset illustration featuring warm tones and natural scenery, perfect for lifestyle and travel designs.",
+    "tags": [
+      "sunset",
+      "nature",
+      "landscape"
+    ],
+    "isPattern": false,
+    "price": 9.99
+  },
+  {
+    "id": "ill-2",
+    "name": "Cityscape",
+    "title": "Illustration Details",
+    "image": "/VecVisuals/assets/illustrations/Illustration 2.png",
+    "previewImage": "/VecVisuals/assets/illustrations/Illustration 2.png",
+    "description": "Modern city skyline illustration ideal for business, urban, and architectural themes.",
+    "tags": [
+      "city",
+      "urban",
+      "buildings"
+    ],
+    "isPattern": false,
+    "price": 9.99
+  },
+  {
+    "id": "ill-3",
+    "name": "Portrait Illustration",
+    "title": "Illustration Details",
+    "image": "/VecVisuals/assets/illustrations/villagenight.jpg",
+    "previewImage": "/VecVisuals/assets/illustrations/villagenight.jpg",
+    "description": "Creative portrait-style illustration with clean vector styling and modern composition.",
+    "tags": [
+      "portrait",
+      "character",
+      "vector"
+    ],
+    "isPattern": false,
+    "price": 9.99
+  },
+  {
+    "id": "pattern-1",
+    "name": "Floral Pattern",
+    "title": "Illustration Details",
+    "image": "/VecVisuals/assets/patterns/Pattern.png",
+    "previewImage": "/VecVisuals/assets/patterns/Pattern.png",
+    "description": "Elegant seamless floral pattern suitable for backgrounds, packaging, and textile design.",
+    "tags": [
+      "floral",
+      "pattern",
+      "decorative"
+    ],
+    "isPattern": true,
+    "price": 6.99
+  },
+  {
+    "id": "pattern-2",
+    "name": "Floral Pattern Variation",
+    "title": "Illustration Details",
+    "image": "/VecVisuals/assets/patterns/Pattern 2.png",
+    "previewImage": "/VecVisuals/assets/patterns/Pattern 2.png",
+    "description": "Stylized floral pattern variation designed for creative branding and surface design.",
+    "tags": [
+      "floral",
+      "pattern",
+      "surface"
+    ],
+    "isPattern": true,
+    "price": 6.99
+  },
+  {
+    "id": "pattern-3",
+    "name": "Floral Pattern Variation",
+    "title": "Illustration Details",
+    "image": "/VecVisuals/assets/patterns/Pattern 3.png",
+    "previewImage": "/VecVisuals/assets/patterns/Pattern 3.png",
+    "description": "Stylized floral pattern variation designed for creative branding and surface design.",
+    "tags": [
+      "floral",
+      "pattern",
+      "surface"
+    ],
+    "isPattern": true,
+    "price": 6.99
+  },
+  {
+    "id": "pattern-4",
+    "name": "Floral Pattern Variation",
+    "title": "Illustration Details",
+    "image": "/VecVisuals/assets/patterns/Pattern 4.png",
+    "previewImage": "/VecVisuals/assets/patterns/Pattern 4.png",
+    "description": "Stylized floral pattern variation designed for creative branding and surface design.",
+    "tags": [
+      "floral",
+      "pattern",
+      "surface"
+    ],
+    "isPattern": true,
+    "price": 6.99
+  }
+]

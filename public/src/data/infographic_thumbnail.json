@@ -1,0 +1,20 @@
+[
+  {
+    "id": "growth-chart",
+    "name": "Growth Chart Infographic",
+    "image": "/VecVisuals/assets/Infographics/growth-chart.jpg",
+    "price": 7.99
+  },
+  {
+    "id": "marketing-process",
+    "name": "Marketing Process",
+    "image": "/VecVisuals/assets/Infographics/marketing-process.jpg",
+    "price": 7.99
+  },
+  {
+    "id": "business-report",
+    "name": "Business Report",
+    "image": "/VecVisuals/assets/Infographics/business-report.jpg",
+    "price": 7.99
+  }
+]
