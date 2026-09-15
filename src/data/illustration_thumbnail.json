@@ -1,0 +1,73 @@
+[
+  {
+    "id": "ill-1",
+    "name": "Sunset Scene",
+    "image": "/src/assets/illustrations/Illustration 1.png",
+    "tags": [
+      "sunset",
+      "nature"
+    ],
+    "isPattern": false,
+    "price": 9.99
+  },
+  {
+    "id": "ill-2",
+    "name": "Cityscape",
+    "image": "/src/assets/illustrations/Illustration 2.png",
+    "tags": [
+      "city"
+    ],
+    "isPattern": false,
+    "price": 9.99
+  },
+  {
+    "id": "ill-3",
+    "name": "Cityscape",
+    "image": "/src/assets/illustrations/villagenight.jpg",
+    "tags": [
+      "city"
+    ],
+    "isPattern": false,
+    "price": 9.99
+  },
+  {
+    "id": "pattern-1",
+    "name": "Floral Pattern",
+    "image": "/src/assets/patterns/Pattern.png",
+    "tags": [
+      "floral"
+    ],
+    "isPattern": true,
+    "price": 6.99
+  },
+  {
+    "id": "pattern-2",
+    "name": "Floral Pattern",
+    "image": "/src/assets/patterns/Pattern 2.png",
+    "tags": [
+      "floral"
+    ],
+    "isPattern": true,
+    "price": 6.99
+  },
+  {
+    "id": "pattern-3",
+    "name": "Floral Pattern 3",
+    "image": "/src/assets/patterns/Pattern 3.png",
+    "tags": [
+      "floral"
+    ],
+    "isPattern": true,
+    "price": 6.99
+  },
+  {
+    "id": "pattern-4",
+    "name": "Floral Pattern",
+    "image": "/src/assets/patterns/Pattern 4.png",
+    "tags": [
+      "floral"
+    ],
+    "isPattern": true,
+    "price": 6.99
+  }
+]
